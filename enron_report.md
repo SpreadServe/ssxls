@@ -3,16 +3,8 @@ The Enron corpus has 15927 spreadsheets. Nearly half of those sheets use no func
 Just 170 of the 8421 sheets are mathematically non-trivial.
 
 ## 170 math sheets
-### vkaminski__40690__Amod2.xlsx
-18 functions
-
-NOW 3
-
-FALSE 17
-
-XIRR 21
-MIN 50
-INT 84
+##### vkaminski__40690__Amod2.xlsx
+18 functions: NOW 3, FALSE 17, XIRR 21, MIN 50, INT 84
 MAX 120
 SUM 914
 TRANSPOSE 476
